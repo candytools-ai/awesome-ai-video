@@ -5,6 +5,7 @@ A featured list of cutting-edge AI video generation and editing tools that are t
 ## AI Video Generation
 
 - [WAN 2.1](https://wan.video/) - Open-source video generation model offering 480p/720p resolution videos. Features a lightweight 1.3B version compatible with 8GB VRAM and a 14B professional version with English and Chinese text generation capabilities, enhanced physics simulation and spatio-temporal consistency.
+- [PVID](https://pvid.app/) - Free AI video generator aggregating Kling 3.0, Sora 2, Veo 3.1. Supports image-to-video, text-to-video, video-to-video with 100 free credits for new users.
 - [Kling](https://klingai.com/) - Professional AI video creation platform with the latest 2.0 version supporting videos up to 2 minutes long. Implements character consistency technology to solve common distortion issues in AI videos, with Elements feature allowing character consistency through single reference images.
 - [Minimax Hailuo](https://hailuoai.video/) - Advanced AI video model offering 1080p, 10-second, 30FPS high-quality videos with ultra-realistic physics simulation, cinematic quality output, and character consistency technology.
 - [Pika](https://pika.art/) - Version 2.2 supports generating videos up to 10 seconds in 1080p resolution, featuring innovative Pikaframes keyframe transition functionality and Pikaffects effects tools that apply AI-generated visual effects to video elements.
