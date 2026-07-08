@@ -10,6 +10,7 @@ A featured list of cutting-edge AI video generation and editing tools that are t
 - [Pika](https://pika.art/) - Version 2.2 supports generating videos up to 10 seconds in 1080p resolution, featuring innovative Pikaframes keyframe transition functionality and Pikaffects effects tools that apply AI-generated visual effects to video elements.
 - [Runway](https://runwayml.com/) - Latest Gen-4 model dramatically improves character consistency, generating multi-angle, dynamic poses of characters from single reference images. Supports realistic physics simulation and visual effects generation, particularly suitable for professional video production and VFX integration.
 - [InVideo](https://invideo.io/) - AI-assisted video creation platform offering templates and automated editing features to accelerate video production workflows.
+- [Podframes](https://github.com/Jellypod-Inc/podframes) - Open-source local studio and CLI for turning a topic into a two-host AI podcast video with mixed TTS voices, lip-synced avatars, captions, b-roll, and MP4 rendering.
 - [Veo](https://deepmind.google/models/veo/) - Google's AI video platform focused on professional video creation and editing with advanced generation capabilities.
 - [Vidu](https://vidu.com/) - AI-powered video generation tool with various customization options for creative flexibility.
 - [Seedance](https://seed.bytedance.com/seedance/) - Platform with sophisticated motion and dance generation capabilities, creating realistic dance and movement sequences with precise choreography control.
