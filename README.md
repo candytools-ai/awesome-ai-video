@@ -15,6 +15,8 @@ A featured list of cutting-edge AI video generation and editing tools that are t
 - [Seedance](https://seed.bytedance.com/seedance/) - Platform with sophisticated motion and dance generation capabilities, creating realistic dance and movement sequences with precise choreography control.
 - [Pixverse](https://pixverse.ai/) - AI tool capable of creating imaginative high-quality videos from text descriptions and bringing static images to life with realistic motion effects.
 - [Magi-1.video](https://magi-1.video/) - Innovative AI video generation platform with unique features for transforming text descriptions into detailed video content with advanced narrative capabilities.
+- [Corpse Bride AI](https://corpsebride.cc) - One photo to ~10s 9:16 ghost bride/groom cemetery dance video. From $8.88. Independent fan tool.
+- [White Chicks AI](https://whitechicks.cc) - 1–2 photos to ~10–12s 9:16 night convertible sing video (duo or pet). From $8.88. Independent fan tool.
 
 ## Contributing
 
