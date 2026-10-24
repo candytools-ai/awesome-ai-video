@@ -15,6 +15,7 @@ A featured list of cutting-edge AI video generation and editing tools that are t
 - [Seedance](https://seed.bytedance.com/seedance/) - Platform with sophisticated motion and dance generation capabilities, creating realistic dance and movement sequences with precise choreography control.
 - [Pixverse](https://pixverse.ai/) - AI tool capable of creating imaginative high-quality videos from text descriptions and bringing static images to life with realistic motion effects.
 - [Magi-1.video](https://magi-1.video/) - Innovative AI video generation platform with unique features for transforming text descriptions into detailed video content with advanced narrative capabilities.
+- [Effect Video](https://effect.video/) - AI photo-to-video tool with viral effect templates (AI dance, hotel lobby, anime transformation, lip sync). Upload a photo, pick a template, download a short vertical clip. Freemium; Welcome plan $23.25/mo promo.
 
 ## Contributing
 
