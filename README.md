@@ -16,6 +16,8 @@ A featured list of cutting-edge AI video generation and editing tools that are t
 - [Pixverse](https://pixverse.ai/) - AI tool capable of creating imaginative high-quality videos from text descriptions and bringing static images to life with realistic motion effects.
 - [Magi-1.video](https://magi-1.video/) - Innovative AI video generation platform with unique features for transforming text descriptions into detailed video content with advanced narrative capabilities.
 
+- [Ideoy](https://ideoy.ai/) - Remake trending short-form video templates from one photo or selfie.
+
 ## Contributing
 
 Contributions to this list are welcome! Please submit a pull request or open an issue to suggest additions or improvements. If you know of an AI video tool that should be included in this list, please feel free to open an issue with details about the tool.
