@@ -15,6 +15,9 @@ A featured list of cutting-edge AI video generation and editing tools that are t
 - [Seedance](https://seed.bytedance.com/seedance/) - Platform with sophisticated motion and dance generation capabilities, creating realistic dance and movement sequences with precise choreography control.
 - [Pixverse](https://pixverse.ai/) - AI tool capable of creating imaginative high-quality videos from text descriptions and bringing static images to life with realistic motion effects.
 - [Magi-1.video](https://magi-1.video/) - Innovative AI video generation platform with unique features for transforming text descriptions into detailed video content with advanced narrative capabilities.
+- [KDA Firestarter AI Dance](https://kdafirestarterai.dev) - Independent unofficial AI: one photo → 13s 480p 21:9 solo dance (Paid from $7.99). Not affiliated with Riot Games or K/DA
+- [A2O LITE NEON AI Dance](https://a2oliteai.org) - Independent AI: two photos → 15s 480p 16:9 duo neon dance with reference soundtrack (Paid from $7.99)
+- [dime dime baby ai](https://dimedimebabyai.dev) - Independent AI: one photo → ~5s 480p 9:16 AI dance (Quince Classic or Party Groove) (Paid from $7.99)
 
 ## Contributing
 
