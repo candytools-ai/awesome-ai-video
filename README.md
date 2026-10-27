@@ -4,6 +4,7 @@ A featured list of cutting-edge AI video generation and editing tools that are t
 
 ## AI Video Generation
 
+- [Cyanvid](https://cyanvid.com) - AI video generator SaaS (text/image to video subscription).
 - [WAN 2.1](https://wan.video/) - Open-source video generation model offering 480p/720p resolution videos. Features a lightweight 1.3B version compatible with 8GB VRAM and a 14B professional version with English and Chinese text generation capabilities, enhanced physics simulation and spatio-temporal consistency.
 - [Kling](https://klingai.com/) - Professional AI video creation platform with the latest 2.0 version supporting videos up to 2 minutes long. Implements character consistency technology to solve common distortion issues in AI videos, with Elements feature allowing character consistency through single reference images.
 - [Minimax Hailuo](https://hailuoai.video/) - Advanced AI video model offering 1080p, 10-second, 30FPS high-quality videos with ultra-realistic physics simulation, cinematic quality output, and character consistency technology.
